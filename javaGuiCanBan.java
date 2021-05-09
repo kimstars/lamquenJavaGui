@@ -134,5 +134,4 @@ public class javaGuiCanBan extends JFrame implements ActionListener {
         run.setSize(500,400);
         run.setResizable(false);
     }
-
 }
